@@ -1,0 +1,68 @@
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.exe
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.deps.json
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.runtimeconfig.json
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.pdb
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.TechMarketingForm.resources
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.Properties.Resources.resources
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.AssemblyInfo.cs
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\refint\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.pdb
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.genruntimeconfig.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG1\HuyserCG1\obj\Debug\net6.0-windows\ref\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.Properties.Resources.resources
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.TechMarketingForm.resources
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.AssemblyInfo.cs
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\refint\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.pdb
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.exe
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.deps.json
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.runtimeconfig.json
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.pdb
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.genruntimeconfig.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG2\HuyserCG1\obj\Debug\net6.0-windows\ref\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.Properties.Resources.resources
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.TechMarketingForm.resources
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.AssemblyInfo.cs
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\refint\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.pdb
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.exe
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.deps.json
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.runtimeconfig.json
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.dll
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.pdb
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.genruntimeconfig.cache
+\\Mac\Home\Desktop\CIS 207\HuyserCG4\HuyserCG1\obj\Debug\net6.0-windows\ref\HuyserCG1.dll
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.exe
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.deps.json
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.runtimeconfig.json
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.dll
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net6.0-windows\HuyserCG1.pdb
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.Properties.Resources.resources
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.TechMarketingForm.resources
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.csproj.GenerateResource.cache
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.AssemblyInfoInputs.cache
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.AssemblyInfo.cs
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.csproj.CoreCompileInputs.cache
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.dll
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\refint\HuyserCG1.dll
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.pdb
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\HuyserCG1.genruntimeconfig.cache
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net6.0-windows\ref\HuyserCG1.dll

@@ -1,1 +1,2 @@
-# Computer-Accessories-Order-Form
+# Description
+This program is a simple order form for computer parts written in C# and windows forms. It accepts customer information, part selection, and quantity of parts. It will then require a user to select a tax type with 3 different tax percentages. Customers can select varyious package options for an added cost. It uses multilevel accumulation to keep a running total of items purchased and total cost for the customer. Each new customers total is then added to a running total for mgmt that tracks total profits and total number of custsomers. 

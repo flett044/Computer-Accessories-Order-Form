@@ -1,0 +1,35 @@
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.exe
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.deps.json
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.runtimeconfig.json
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.dll
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.pdb
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.Properties.Resources.resources
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.TechMarketingForm.resources
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.csproj.GenerateResource.cache
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.AssemblyInfoInputs.cache
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.AssemblyInfo.cs
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.csproj.CoreCompileInputs.cache
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.dll
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\refint\HuyserCG1.dll
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.pdb
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.genruntimeconfig.cache
+C:\Users\Fleet\Downloads\HuyserC-CG4\HuyserCG1\obj\Debug\net8.0-windows\ref\HuyserCG1.dll
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.exe
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.deps.json
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.runtimeconfig.json
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.dll
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\bin\Debug\net8.0-windows\HuyserCG1.pdb
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.Properties.Resources.resources
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.TechMarketingForm.resources
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.csproj.GenerateResource.cache
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.AssemblyInfoInputs.cache
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.AssemblyInfo.cs
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.csproj.CoreCompileInputs.cache
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.sourcelink.json
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.dll
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\refint\HuyserCG1.dll
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.pdb
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\HuyserCG1.genruntimeconfig.cache
+C:\Users\Fleet\CIS 237\Computer-Accessories-Order-Form\HuyserCG1\obj\Debug\net8.0-windows\ref\HuyserCG1.dll
