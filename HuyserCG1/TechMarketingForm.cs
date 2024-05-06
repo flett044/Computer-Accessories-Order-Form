@@ -1,13 +1,3 @@
-// Programmer:  Caleb Huyser
-// Class:       CIS207-10228
-// Date Due:    10/28/23
-// Assignment:  Programming Assignment #4
-//
-// Description: This program builds up programming assignment 2. It showcases beginning OOP programming. It is funtionaly the same
-// as assignment 2. 
-//
-//*****************************************************************************
-
 using System;
 using System.Diagnostics.Eventing.Reader;
 using System.Drawing.Text;
@@ -1022,13 +1012,13 @@ namespace HuyserCG1
             CustomerAddressTextBox.Text = "1234 Main Street";
 
             // Sets Customer City to - Kalamazoo - on the form
-            CustomerCityTextBox.Text = "Kalamazoo";
+            CustomerCityTextBox.Text = "Detroit";
 
             // Sets Customer State to - MI - on the form
             CustomerStateTextBox.Text = "MI";
 
             // Sets Customer Zipcode to - 49009 - on the form
-            CustomerZipMaskedTextBox.Text = "49009";
+            CustomerZipMaskedTextBox.Text = "49319";
 
             // Sets Customer Phone Number to - 123-1234 - on the form
             CustomerPhoneNumberMaskedTextBox.Text = "123-1234";

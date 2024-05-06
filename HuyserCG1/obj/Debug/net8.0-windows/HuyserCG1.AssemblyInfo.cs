@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HuyserCG1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b16007ff681ba015d584e71891da781609be8829")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2306ad6ba02aea505030e6d50ac12b876f77c72e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HuyserCG1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HuyserCG1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

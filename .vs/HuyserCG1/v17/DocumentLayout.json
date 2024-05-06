@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|c:\\users\\fleet\\cis 237\\computer-accessories-order-form\\huysercg1\\techmarketingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|solutionrelative:huysercg1\\techmarketingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|c:\\users\\fleet\\cis 237\\computer-accessories-order-form\\huysercg1\\techmarketingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|solutionrelative:huysercg1\\techmarketingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|c:\\users\\fleet\\cis 237\\computer-accessories-order-form\\huysercg1\\techmarketingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|solutionrelative:huysercg1\\techmarketingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|c:\\users\\fleet\\cis 237\\computer-accessories-order-form\\huysercg1\\customerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|solutionrelative:huysercg1\\customerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|c:\\users\\fleet\\cis 237\\computer-accessories-order-form\\huysercg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B169D0EA-1C02-41C2-BCB5-4526DFB6E743}|HuyserCG1\\HuyserCG1.csproj|solutionrelative:huysercg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,32 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TechMarketingForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\TechMarketingForm.Designer.cs",
-              "RelativeDocumentMoniker": "HuyserCG1\\TechMarketingForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\TechMarketingForm.Designer.cs",
-              "RelativeToolTip": "HuyserCG1\\TechMarketingForm.Designer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Title": "TechMarketingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\TechMarketingForm.cs",
+              "RelativeDocumentMoniker": "HuyserCG1\\TechMarketingForm.cs",
+              "ToolTip": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\TechMarketingForm.cs [Design]",
+              "RelativeToolTip": "HuyserCG1\\TechMarketingForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:04:25.772Z",
+              "WhenOpened": "2024-05-06T21:07:44.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechMarketingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\TechMarketingForm.cs",
+              "RelativeDocumentMoniker": "HuyserCG1\\TechMarketingForm.cs",
+              "ToolTip": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\TechMarketingForm.cs",
+              "RelativeToolTip": "HuyserCG1\\TechMarketingForm.cs",
+              "ViewState": "AQIAAO4DAAAAAAAAAAAAAPwDAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:02:43.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\Program.cs",
-              "RelativeDocumentMoniker": "HuyserCG1\\Program.cs",
-              "ToolTip": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\Program.cs",
-              "RelativeToolTip": "HuyserCG1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:03:53.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CustomerClass.cs",
               "DocumentMoniker": "C:\\Users\\Fleet\\CIS 237\\Computer-Accessories-Order-Form\\HuyserCG1\\CustomerClass.cs",
               "RelativeDocumentMoniker": "HuyserCG1\\CustomerClass.cs",
@@ -60,7 +59,7 @@
               "RelativeToolTip": "HuyserCG1\\CustomerClass.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:03:43.278Z",
+              "WhenOpened": "2024-05-06T21:02:08.785Z",
               "EditorCaption": ""
             }
           ]
